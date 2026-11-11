@@ -90,8 +90,7 @@ The setting `saveResults` is `false` by default. To export the available CSV tab
 1. Gonzalez, R. C., and Woods, R. E., *Digital Image Processing*, 4th Edition, Pearson, 2018.
 2. MathWorks, MATLAB Image Processing Toolbox documentation: https://www.mathworks.com/help/images/
 3. MathWorks, `dct2` documentation: https://www.mathworks.com/help/images/ref/dct2.html
-4. Add the full citation and source details for the reference paper and PV dataset used by the team.
-
+4. Altawallbeh, Wejdan, et al. "Detection and Classification of Hot Spots in Photovoltaic Panels Using Thermal Image Processing Techniques." Signals 7.4 (2026): 61.
 ## Execution status
 
 The source files and project documentation are prepared for repository submission. Successful execution on the target MATLAB installation has **not yet been verified**. Please report any environment-specific dependency or runtime issue before treating the outputs as reproduced.
